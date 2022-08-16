@@ -1,9 +1,13 @@
 id:00601238
 nombre: Carlos Hernandez Martinez
-trabajo: SAP
-puesto: DevOps Ingeniero
 email: khemtz@gmail.com
 telefono: 8115998665
 carrera: ITIT
 generacion: 2002
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+id:00000005
+nombre: krlos hdz Martinez
+email: carlos.hernandezmar@gmail.com
+telefono: 5556667788
+carrera: Sistemas
+generacion 2000
