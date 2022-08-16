@@ -1,0 +1,7 @@
+id:00601238
+nombre: Carlos Hernandez Martinez
+email: khemtz@gmail.com
+telefono: 8115998665
+carrera: ITIT
+generacion: 2002
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
