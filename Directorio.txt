@@ -11,3 +11,11 @@ email: carlos.hernandezmar@gmail.com
 telefono: 5556667788
 carrera: Sistemas
 generacion 2000
+
+
+id:00389915
+nombre: Juan Daniel Valido Jeronimo
+email: juan.validoje@anahuac.mx
+telefono:2831252451
+carrera: Sistemas
+generacion: 2019
