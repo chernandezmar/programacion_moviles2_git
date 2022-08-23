@@ -26,3 +26,10 @@ telefono: 5556667789
 carrera: SistemasTecnologia
 generacion 2022
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+id:00389915
+nombre: Juan Daniel Valido Jeronimo
+email: juan.validoje@anahuac.mx
+telefono:2831252451
+carrera: Sistemas
+generacion: 2019
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
