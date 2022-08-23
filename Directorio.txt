@@ -33,3 +33,10 @@ telefono:2831252451
 carrera: Sistemas
 generacion: 2019
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+id:
+nombre: 
+email: 
+telefono:
+carrera:
+generacion:
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
