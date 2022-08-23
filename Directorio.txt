@@ -11,11 +11,25 @@ email: carlos.hernandezmar@gmail.com
 telefono: 5556667788
 carrera: Sistemas
 generacion 2000
-
-
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+id:00337320
+nombre:Victor Matos
+email: victor.matosca@anahuac.mx
+telefono: 5556667788
+carrera: Sistemas
+generacion 2018
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+id:00000010
+nombre: Perenganito Martinez
+email: carlos.hernandezmar@gmail.com
+telefono: 5556667789
+carrera: SistemasTecnologia
+generacion 2022
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 id:00389915
 nombre: Juan Daniel Valido Jeronimo
 email: juan.validoje@anahuac.mx
 telefono:2831252451
 carrera: Sistemas
 generacion: 2019
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
