@@ -37,7 +37,7 @@ id: 00377688
 nombre: Roberto Mowers Jimenez
 email: roberto.mowersji@anahuac.mx
 telefono: 111111111
-carrera: Ingenieria en Sistemas
+carrera: Ingenieria en Sistemas y Tecnologias
 generacion: 2019
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 id:
