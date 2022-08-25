@@ -33,10 +33,10 @@ telefono:2831252451
 carrera: Sistemas
 generacion: 2019
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-id:
-nombre: 
-email: 
-telefono:
-carrera:
-generacion:
+id: 00389915    
+nombre: Juan Daniel Valido2
+email: jvalidojeronimo@gmail.com
+telefono:2831252451
+carrera: Sistemas
+generacion: 2019--->
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
