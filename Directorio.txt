@@ -10,7 +10,40 @@ nombre: Manuel Flores
 email: manuel.florescr@anahuac.mx
 telefono: 951 187 6322
 carrera: Sistemas
+<<<<<<< HEAD
 generacion 2019
 
 save
 
+=======
+generacion 2000
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+id:00337320
+nombre:Victor Matos
+email: victor.matosca@anahuac.mx
+telefono: 5556667788
+carrera: Sistemas
+generacion 2018
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+id:00000010
+nombre: Perenganito Martinez
+email: carlos.hernandezmar@gmail.com
+telefono: 5556667789
+carrera: SistemasTecnologia
+generacion 2022
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+id:00389915
+nombre: Juan Daniel Valido Jeronimo
+email: juan.validoje@anahuac.mx
+telefono:2831252451
+carrera: Sistemas
+generacion: 2019
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+id: 00389915    
+nombre: Juan Daniel Valido2
+email: jvalidojeronimo@gmail.com
+telefono:2831252451
+carrera: Sistemas
+generacion: 2019--->
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+>>>>>>> cdcacfc3db7c74f6bb3f9cab7e06295b2d2d0a13
