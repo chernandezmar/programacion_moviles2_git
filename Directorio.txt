@@ -33,26 +33,17 @@ telefono:2831252451
 carrera: Sistemas
 generacion: 2019
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-<<<<<<< HEAD
-id: 00377688
-nombre: Roberto Mowers Jimenez
-email: roberto.mowersji@anahuac.mx
-telefono: 111111111
-carrera: Ingenieria en Sistemas y Tecnologias
-generacion: 2019
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-id:
-nombre: 
-email: 
-telefono:
-carrera:
-generacion:
-=======
 id: 00389915    
 nombre: Juan Daniel Valido2
 email: jvalidojeronimo@gmail.com
 telefono:2831252451
 carrera: Sistemas
 generacion: 2019--->
->>>>>>> cdcacfc3db7c74f6bb3f9cab7e06295b2d2d0a13
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+id: 00377688   
+nombre: Roberto Mowers Jimenez
+email: jvalidojeronimo@gmail.com
+telefono:9512289839
+carrera: Sistemas
+generacion: 2019--->
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
