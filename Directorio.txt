@@ -11,8 +11,6 @@ email: manuel.florescr@anahuac.mx
 telefono: 951 187 6322
 carrera: Sistemas
 generacion 2019
-save
-generacion 2000
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 id:00337320
 nombre:Victor Matos
