@@ -5,7 +5,13 @@ telefono: 8115998665
 carrera: ITIT
 generacion: 2002
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-
+id:00368166
+nombre: Manuel Flores
+email: manuel.florescr@anahuac.mx
+telefono: 951 187 6322
+carrera: Sistemas
+generacion 2019
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 id:00337320
 nombre:Victor Matos
 email: victor.matosca@anahuac.mx
@@ -40,10 +46,6 @@ email: jvalidojeronimo@gmail.com
 telefono:9512289839
 carrera: Sistemas
 generacion: 2019
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 id: 00281736
 nombre: Efren Mendoza Gonzalez
