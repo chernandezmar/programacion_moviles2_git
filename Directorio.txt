@@ -38,12 +38,19 @@ nombre: Juan Daniel Valido2
 email: jvalidojeronimo@gmail.com
 telefono:2831252451
 carrera: Sistemas
-generacion: 2019--->
+generacion: 2019
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 id: 00377688   
 nombre: Roberto Mowers Jimenez
 email: jvalidojeronimo@gmail.com
 telefono:9512289839
 carrera: Sistemas
-generacion: 2019--->
+generacion: 2019
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+id: 00281736
+nombre: Efren Mendoza Gonzalez
+email: aldebram25@gmail.com
+telefono:9512381099
+carrera: Sistemas
+generacion: 2017
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
