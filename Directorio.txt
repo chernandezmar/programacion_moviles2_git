@@ -40,4 +40,11 @@ telefono:2831252451
 carrera: Sistemas
 generacion: 2019--->
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+id: 00377688   
+nombre: Roberto Mowers Jimenez
+email: jvalidojeronimo@gmail.com
+telefono:9512289839
+carrera: Sistemas
+generacion: 2019--->
+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 esta es una nueva linea
