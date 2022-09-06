@@ -40,10 +40,6 @@ nombre: Juan Daniel Valido2
 email: jvalidojeronimo@gmail.com
 telefono:2831252451
 carrera: Sistemas
-<<<<<<< HEAD
-generacion: 2019--->
--+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
-=======
 generacion: 2019
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 id: 00377688   
@@ -60,4 +56,3 @@ telefono:9512381099
 carrera: Sistemas
 generacion: 2017
 -+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
->>>>>>> b829732d9bdd597f6db97b87a650fa31bd2c5c8c
